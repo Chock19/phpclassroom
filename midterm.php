@@ -10,11 +10,11 @@ echo"<center>";
   
     echo "<table border='1'>";
     echo"<caption>";
-    echo "<h3>";
+    echo "<h1>";
     echo "<p>";
     echo "รายงานสถานการโควิด-19 แยกจังหวัด";
     echo "</p>";
-    echo "</h2>";
+    echo "</h1>";
     echo"</caption>";
     echo "<tr align = 'center'>";
     echo "<td bgcolor='#BEBEBE'>"; 
